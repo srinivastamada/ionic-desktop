@@ -1,0 +1,7 @@
+{
+  "name": "ionic-desktop",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
